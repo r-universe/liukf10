@@ -7,4 +7,5 @@
 	path = DDPNA
 	url = https://github.com/liukf10/ddpna
 	shallow = true
+	subdir = DDPNA
 	registered = true
